@@ -9,13 +9,13 @@ Video Ad Player hỗ trợ quảng cáo VAST/VMAP qua Google IMA SDK, scroll sti
 Chỉ cần 1 dòng script. Tất cả dependencies (Video.js, IMA SDK, contrib-ads) được tự động load.
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/Bigfourth/video@latest/xadplayer-optimized.js" async></script>
+<script src="https://cdn.jsdelivr.net/gh/Bigfourth/videos@latest/optimized.js" async></script>
 ```
 
 Hoặc self-host:
 
 ```html
-<script src="/path/to/xadplayer-optimized.js" async></script>
+<script src="/path/to/optimized.js" async></script>
 ```
 
 ---
